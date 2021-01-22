@@ -7,6 +7,7 @@
   - [GitHub](https://github.com/healthypackrat)
       - [作ったリポジトリの一覧](https://github.com/healthypackrat/repos)
   - [RubyGems.org](https://rubygems.org/profiles/healthypackrat)
+      - [safari\_bookmarks\_parser](https://rubygems.org/gems/safari_bookmarks_parser)
       - [pdf\_outline\_editor](https://rubygems.org/gems/pdf_outline_editor)
       - [duo_splitter](https://rubygems.org/gems/duo_splitter)
   - [Scrapbox](https://scrapbox.io/healthypackrat/)
